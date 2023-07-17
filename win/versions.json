@@ -18,5 +18,11 @@
     },{
         "name": "3.8.7",
         "url": "https://archive.apache.org/dist/maven/maven-3/3.8.7/binaries/apache-maven-3.8.7-bin.zip" 
+    },{
+        "name": "3.8.8",
+        "url": "https://archive.apache.org/dist/maven/maven-3/3.8.8/binaries/apache-maven-3.8.8-bin.zip" 
+    },{
+        "name": "3.9.3",
+        "url": "https://archive.apache.org/dist/maven/maven-3/3.9.3/binaries/apache-maven-3.9.3-bin.zip" 
     }
 ]
